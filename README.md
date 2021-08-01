@@ -4,9 +4,9 @@ INGRIDIENTS :
 water,tea leaves,sugar,and just 5 minutes
 
 RECIPE :
-take two cups of water in a utensil
-now boil it over gas stove 
-and put one teaspoon of tea leaves in it 
-now put one teaspoon of sugar in it
-and boil it for 5 minutes 
+take two cups of water in a utensil,
+now boil it over gas stove ,
+and put one teaspoon of tea leaves in it ,
+now put one teaspoon of sugar in it,
+and boil it for 5 minutes ,
 now serve to the guests
